@@ -1,0 +1,13 @@
+image: maven:3.6.1
+
+pipelines:
+  branches:
+    master:
+      - step:
+          script:
+            - echo "CI is not configured"
+            - exit 1
+  default:
+    - step:
+        script:
+            - echo "Building only on the master branch"
