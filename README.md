@@ -15,12 +15,6 @@ the repository and make changes.
 
 ## Documentation
 
-Documentation can be [found here](https://bitbucket.org/atlassian-docs/atlassian-docs.bitbucket.org).
-
-See also
-* [Repository for Connector for Eclipse](https://bitbucket.org/atlassian/connector-eclipse)
-* [Repository for Connector for Visual Studio](https://bitbucket.org/atlassian/connector-vs)
-
 ## Tests
 
 Unit tests are located in the following modules:
@@ -39,5 +33,3 @@ Contributions to Connector for Eclipse are welcome! Please see [CONTRIBUTING.md]
 
 Copyright (c) 2008-2023 Atlassian US., Inc.
 Apache 2.0 licensed, see [LICENSE](LICENSE) file.
-
-[![With â¤ï¸ from Atlassian](https://raw.githubusercontent.com/atlassian-internal/oss-assets/master/banner-cheers.png)](https://www.atlassian.com)
